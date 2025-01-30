@@ -13,6 +13,8 @@ ul {
 
 li {
     color:rgb(64, 88, 88);
+    margin-bottom: 8px;
+    list-style-type: none;
 }
 
 a {
@@ -26,4 +28,12 @@ img {
 
 p {
     text-align: center;
+}
+
+.menu {
+    background-color: rgb(190, 190, 250);
+    padding: 16px;
+    text-align: center;
+    width: 400px;
+    margin: auto;
 }
